@@ -1,0 +1,49 @@
+<h1 align="center">Hi 👋, I'm Mohamad Waked</h1>
+<h3 align="center">CS Student | Java Backend Developer | Tech Enthusiast</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamadwaked&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadwaked" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 3rd Year Computer Science Student  
+- 🧠 Learning: **Spring Boot**, **SQL**, and **Clean Architecture**  
+- 🤝 Open to collaborate on meaningful backend projects  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohamad-waked-3b5502317/)
+
+---
+
+### 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamadwaked&show_icons=true&theme=tokyonight" alt="mohamadwaked stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadwaked&layout=compact&theme=tokyonight" alt="mohamadwaked top languages" />
+</p>
+
+---
+
+### 🔗 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohamad-waked-3b5502317/)
+- 📬 Email: mohawakiid@gmail.com
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
