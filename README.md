@@ -33,7 +33,7 @@
 ### 🔗 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohamad-waked-3b5502317/)
-- 📬 Email: mhmddwaked@gmail.com
+- 📬 Email: mhmdwakedd@gmail.com
 
 
 
