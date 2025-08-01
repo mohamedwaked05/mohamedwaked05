@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamad Waked</h1>
-<h3 align="center">CS Student | Java Backend Developer | Tech Enthusiast</h3>
+<h3 align="center">CS Student |  Backend Developer | Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohamadwaked&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadwaked" />
@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 3rd Year Computer Science Student  
-- 🧠 Learning: **Spring Boot**, **SQL**, and **Clean Architecture**  
+- 🧠 Learning: **Java,Spring Boot**, **php,Laravel**, and **Clean Architecture**  
 - 🤝 Open to collaborate on meaningful backend projects  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohamad-waked-3b5502317/)
 
@@ -33,7 +33,7 @@
 ### 🔗 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohamad-waked-3b5502317/)
-- 📬 Email: mohawakiid@gmail.com
+- 📬 Email: mhmddwaked@gmail.com
 
 
 
