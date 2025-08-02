@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mohamad Waked</h1>
-<h3 align="center">CS Student |  Backend Developer | Tech Enthusiast</h3>
+<h1 align="center">Hi 👋
+  I'm Mohamad Waked</h1>
+<h3 align="center">CS Student |  Backend Developer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohamadwaked&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadwaked" />
