@@ -13,7 +13,7 @@
 - 🎓 3rd Year Computer Science Student  
 - 🧠 Learning: (**Java/Spring Boot**), (**php/Laravel**), and **Clean Architecture**  
 - 🤝 Open to collaborate on meaningful backend projects  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohamad-waked-3b5502317/)
+- 📫 How to reach me: mhmdwakedd@gmail.com
 
 ---
 
