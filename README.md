@@ -1,14 +1,13 @@
 
-### 👨‍💻 About Me
+###  About Me
 
-- 🎓 3rd Year Computer Science Student  
-- 🧠 Learning: (**Java/Spring Boot**), (**php/Laravel**), and **Clean Architecture**  
-- 🤝 Open to collaborate on meaningful backend projects  
-- 📫 How to reach me: mhmdwakedd@gmail.com
+-  3rd Year Computer Science Student  
+-  Learning: (**Java/Spring Boot**), (**php/Laravel**), and **Clean Architecture**  
+-  Open to collaborate on meaningful backend projects  
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -22,10 +21,10 @@
 
 ---
 
-### 🔗 Let's Connect!
+###  Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohamad-waked-3b5502317/)
-- 📬 Email: mhmdwakedd@gmail.com
+-  Email: mhmdwakedd@gmail.com
+-  Whatsapp: +961 81867064
 
 
 
